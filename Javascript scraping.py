@@ -4,7 +4,6 @@ import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 
-#url = 'https://www.thenomadhotel.com/'
 url = 'https://www.adda52.com/'
 driver = webdriver.Chrome('D:\chromedriver')
 iterations = 0
